@@ -45,7 +45,7 @@ const expirationDatePattern = {
   },
 }
 
-const expirationDateMaked = IMask(expirationDate, expirationDatePattern)
+const expirationDateMasked = IMask(expirationDate, expirationDatePattern)
 
 const cardNumber = document.querySelector("#card-number")
 const cardNumberPattern = {
@@ -122,7 +122,7 @@ function updateCardNumber(number){
 }
 
 expirationDateMasked.on("accept", () => {
- updateExpirationDate(expirationDateMasked.value)
+  updateExpirationDate(expirationDateMasked .value)
 })
 
 function updateExpirationDate(date) {
