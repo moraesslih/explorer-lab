@@ -1,7 +1,7 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Evento promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
@@ -16,10 +16,6 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
